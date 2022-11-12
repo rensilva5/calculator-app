@@ -1,8 +1,8 @@
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="calculator-grip">
+      <div className='output'></div>
       
     </div>
   );
