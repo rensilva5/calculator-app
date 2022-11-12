@@ -7,3 +7,5 @@
 - Clean App.js as well as index.js
 
 - npm start: we should have an empty web in local host.
+
+- check css grid to style my app.
